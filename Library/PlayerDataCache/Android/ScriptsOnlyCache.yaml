@@ -45,17 +45,17 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 2344}
+      Script: {instanceID: 2354}
     - Class: 114
-      Script: {instanceID: 2446}
+      Script: {instanceID: 2456}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2590}
     - Class: 114
-      Script: {instanceID: 3504}
+      Script: {instanceID: 3514}
     - Class: 114
-      Script: {instanceID: 4642}
+      Script: {instanceID: 4014}
     - Class: 114
-      Script: {instanceID: 16534}
+      Script: {instanceID: 4654}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -667,6 +667,12 @@ ScriptsOnlyBuild:
     className: CinemachineStateDrivenCamera
   - hash:
       serializedVersion: 2
+      Hash: b473826e80c0f3ffe65391e300c072f5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SwipeDetector
+  - hash:
+      serializedVersion: 2
       Hash: 87ad3705a58f19c47136728d4a6e9c47
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -773,13 +779,7 @@ ScriptsOnlyBuild:
     assemblyName: Cinemachine.dll
     namespaceName: Cinemachine
     className: CinemachineBlendListCamera
-  - hash:
-      serializedVersion: 2
-      Hash: b473826e80c0f3ffe65391e300c072f5
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SwipeDetector
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/RA00281515/Desktop/github/aaaaaaa.apk
+  playerPath: C:/Users/jhocb/Documents/GitHub/OneTouchTileRhythmGame/test.apk
